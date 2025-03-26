@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Explora El Salvador</title>
+</head>
+<body>
+    <header>
+        <h1>Explora El Salvador</h1>
+    </header>
+    <section>
+        <h2>Fotos del Sitio</h2>
+        <img src="ruta/de/tu/imagen1.jpg" alt="Imagen del lugar" width="300">
+        <img src="ruta/de/tu/imagen2.jpg" alt="Otra imagen" width="300">
+    </section>
+    <section>
+        <h2>Video del Lugar</h2>
+        <video width="320" height="240" controls>
+            <source src="ruta/de/tu/video.mp4" type="video/mp4">
+            Tu navegador no soporta video.
+        </video>
+    </section>
+    <section>
+        <h2>Información</h2>
+        <p>
+            Este es un destino turístico impresionante lleno de historia, cultura y hermosos paisajes. 
+            Ideal para familias, aventureros y quienes buscan relajación.
+        </p>
+    </section>
+    <section>
+        <h2>Ubicación</h2>
+        <p>
+            Dirección: San Martín, El Salvador <br>
+            Coordenadas: 13.7157° N, 89.1522° W
+        </p>
+    </section>
+    <section>
+        <h2>Hoteles y Actividades</h2>
+        <p>Hoteles:</p>
+        <ul>
+            <li>Hotel Aventura</li>
+            <li>Posada del Sol</li>
+        </ul>
+        <p>Actividades:</p>
+        <ul>
+            <li>Senderismo en el Cerro Verde</li>
+            <li>Explorar playas y surfear</li>
+        </ul>
+    </section>
+    <footer>
+        <p>Desarrollado por Walter</p>
+    </footer>
+</body>
+</html>
